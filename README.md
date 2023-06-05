@@ -12,7 +12,3 @@
 ## About
 
 QR code component
-
-## Developer
-
-* [woofiwaffle](https://github.com/woofiwaffle)
